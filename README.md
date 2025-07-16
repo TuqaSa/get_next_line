@@ -145,4 +145,3 @@ valgrind --leak-check=full ./gnl_test
 ## License
 
 This project was developed as part of the 42 curriculum. Reuse outside of educational contexts requires proper attribution to the author (tsaeed).
-```
